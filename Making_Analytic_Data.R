@@ -72,3 +72,4 @@ analytic_data
 
 #save data
 write_csv(analytic_data,path="quiz1_analytic_data_gomez.csv")
+

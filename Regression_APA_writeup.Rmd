@@ -1,0 +1,19 @@
+---
+title: "Quiz_8_final_markdown"
+author: "Jennifer Gomez"
+date: "November 15, 2016"
+output: word_document
+---
+
+---
+title: "Quiz 8"
+author: "Jennifer Gomez"
+date: "November 15, 2016"
+output: word_document
+---
+
+a) On it's own, Positive Affectivity accounts for 10% of the variance in Academic Success, $R^2$ =.10,95% CI[.03,.19],*p*<.001.When Self-Esteem is added, it accounts for an additional .22% of the variance $sr^2$=.22, 95% CI[.12, .33]. With both Positive Affectivity and self-Esteem the multiple regression model was R² = .32, 95% CI[.21,.41] p < .001. Therefore, Self-Esteem does contribute to Academic Success above and beyond Positive Affectivity. 
+
+b) Self-Esteem accounts for an additional .23% of the variance $sr^2$=.23, 95% CI[.12, .33] above and beyond Negative Affectivity. With both Negative Affectivity and Self Esteem the multiple regression model is R² = .28, 95% CI[.17,.37] p < .01. Therefore, self-esteem does contribute to academic success above and beyond Negative Affectivity. 
+
+c) Together, Negative Affect and Positive account for .12% of the variance in Academic Success $R^2$ = .12, 95% CI [.04,.20], *p*<.001. When Self Esteem is added the $\Delta R2$ = .21, 95% CI[.11,.31].With all three predictors in the model, R² = .33, 95% CI[.21, .42], *p* < .01. .Therefore, Self-Esteem does predict unique variance in Academic Success above and beyond Negative Affect and Positive Affect.  

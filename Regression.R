@@ -17,7 +17,7 @@ psych::pairs.panels(as.data.frame(my.data)) #no concerns
 
 ###QUESTION 4
 
-##PAS on it's own
+##PAS on its own
 reg_pas <- lm(aSuc~PAS, data=my.data)
 summary(reg_pas)
 
